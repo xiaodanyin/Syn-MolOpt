@@ -1,0 +1,163 @@
+{
+    "Mutagenicity-1": {
+        "task": "Mutagenicity-1",
+        "model_info": "/mnt/d/work/Syn-MolOpt/outputs/substructure_analysis/trained_models/Mutagenicity_1_early_stop.pth"
+      },
+    "Mutagenicity-2": {
+        "task": "Mutagenicity-2",
+        "model_info": "/mnt/d/work/Syn-MolOpt/outputs/substructure_analysis/trained_models/Mutagenicity_2_early_stop.pth"
+      },
+    "Mutagenicity-3": {
+      "task": "Mutagenicity-3",
+      "model_info": "/mnt/d/work/Syn-MolOpt/outputs/substructure_analysis/trained_models/Mutagenicity_3_early_stop.pth"
+    },
+    "Mutagenicity-4": {
+      "task": "Mutagenicity-4",
+      "model_info": "/mnt/d/work/Syn-MolOpt/outputs/substructure_analysis/trained_models/Mutagenicity_4_early_stop.pth"
+    },
+    "Mutagenicity-5": {
+      "task": "Mutagenicity-5",
+      "model_info": "/mnt/d/work/Syn-MolOpt/outputs/substructure_analysis/trained_models/Mutagenicity_5_early_stop.pth"
+    },
+    "Mutagenicity-6": {
+      "task": "Mutagenicity-6",
+      "model_info": "/mnt/d/work/Syn-MolOpt/outputs/substructure_analysis/trained_models/Mutagenicity_6_early_stop.pth"
+    },
+    "Mutagenicity-7": {
+      "task": "Mutagenicity-7",
+      "model_info": "/mnt/d/work/Syn-MolOpt/outputs/substructure_analysis/trained_models/Mutagenicity_7_early_stop.pth"
+    },
+    "Mutagenicity-8": {
+      "task": "Mutagenicity-8",
+      "model_info": "/mnt/d/work/Syn-MolOpt/outputs/substructure_analysis/trained_models/Mutagenicity_8_early_stop.pth"
+    },
+    "Mutagenicity-9": {
+      "task": "Mutagenicity-9",
+      "model_info": "/mnt/d/work/Syn-MolOpt/outputs/substructure_analysis/trained_models/Mutagenicity_9_early_stop.pth"
+    },
+    "Mutagenicity-10": {
+      "task": "Mutagenicity-10",
+      "model_info": "/mnt/d/work/Syn-MolOpt/outputs/substructure_analysis/trained_models/Mutagenicity_10_early_stop.pth"
+    },
+      "hERG-1": {
+        "task": "hERG-1",
+        "model_info": "/mnt/d/work/Syn-MolOpt/outputs/substructure_analysis/trained_models/hERG_1_early_stop.pth"
+      },
+      "hERG-2": {
+        "task": "hERG-2",
+        "model_info": "/mnt/d/work/Syn-MolOpt/outputs/substructure_analysis/trained_models/hERG_2_early_stop.pth"
+      },
+      "hERG-3": {
+        "task": "hERG-3",
+        "model_info": "/mnt/d/work/Syn-MolOpt/outputs/substructure_analysis/trained_models/hERG_3_early_stop.pth"
+      },
+      "hERG-4": {
+        "task": "hERG-4",
+        "model_info": "/mnt/d/work/Syn-MolOpt/outputs/substructure_analysis/trained_models/hERG_4_early_stop.pth"
+      },
+      "hERG-5": {
+        "task": "hERG-5",
+        "model_info": "/mnt/d/work/Syn-MolOpt/outputs/substructure_analysis/trained_models/hERG_5_early_stop.pth"
+      },
+      "hERG-6": {
+        "task": "hERG-6",
+        "model_info": "/mnt/d/work/Syn-MolOpt/outputs/substructure_analysis/trained_models/hERG_6_early_stop.pth"
+      },
+      "hERG-7": {
+        "task": "hERG-7",
+        "model_info": "/mnt/d/work/Syn-MolOpt/outputs/substructure_analysis/trained_models/hERG_7_early_stop.pth"
+      },
+      "hERG-8": {
+        "task": "hERG-8",
+        "model_info": "/mnt/d/work/Syn-MolOpt/outputs/substructure_analysis/trained_models/hERG_8_early_stop.pth"
+      },
+      "hERG-9": {
+        "task": "hERG-9",
+        "model_info": "/mnt/d/work/Syn-MolOpt/outputs/substructure_analysis/trained_models/hERG_9_early_stop.pth"
+      },
+      "hERG-10": {
+        "task": "hERG-10",
+        "model_info": "/mnt/d/work/Syn-MolOpt/outputs/substructure_analysis/trained_models/hERG_10_early_stop.pth"
+      },
+      "cyp3a4-1": {
+        "task": "cyp3a4-1",
+        "model_info": "/mnt/d/work/Syn-MolOpt/outputs/substructure_analysis/trained_models/cyp3a4_1_early_stop.pth"
+      },
+      "cyp3a4-2": {
+        "task": "cyp3a4-2",
+        "model_info": "/mnt/d/work/Syn-MolOpt/outputs/substructure_analysis/trained_models/cyp3a4_2_early_stop.pth"
+      },
+      "cyp3a4-3": {
+        "task": "cyp3a4-3",
+        "model_info": "/mnt/d/work/Syn-MolOpt/outputs/substructure_analysis/trained_models/cyp3a4_3_early_stop.pth"
+      },
+      "cyp3a4-4": {
+        "task": "cyp3a4-4",
+        "model_info": "/mnt/d/work/Syn-MolOpt/outputs/substructure_analysis/trained_models/cyp3a4_4_early_stop.pth"
+      },
+      "cyp3a4-5": {
+        "task": "cyp3a4-5",
+        "model_info": "/mnt/d/work/Syn-MolOpt/outputs/substructure_analysis/trained_models/cyp3a4_5_early_stop.pth"
+      },
+      "cyp3a4-6": {
+        "task": "cyp3a4-6",
+        "model_info": "/mnt/d/work/Syn-MolOpt/outputs/substructure_analysis/trained_models/cyp3a4_6_early_stop.pth"
+      },
+      "cyp3a4-7": {
+        "task": "cyp3a4-7",
+        "model_info": "/mnt/d/work/Syn-MolOpt/outputs/substructure_analysis/trained_models/cyp3a4_7_early_stop.pth"
+      },
+      "cyp3a4-8": {
+        "task": "cyp3a4-8",
+        "model_info": "/mnt/d/work/Syn-MolOpt/outputs/substructure_analysis/trained_models/cyp3a4_8_early_stop.pth"
+      },
+      "cyp3a4-9": {
+        "task": "cyp3a4-9",
+        "model_info": "/mnt/d/work/Syn-MolOpt/outputs/substructure_analysis/trained_models/cyp3a4_9_early_stop.pth"
+      },
+      "cyp3a4-10": {
+        "task": "cyp3a4-10",
+        "model_info": "/mnt/d/work/Syn-MolOpt/outputs/substructure_analysis/trained_models/cyp3a4_10_early_stop.pth"
+      },
+      "cyp2c19-1": {
+        "task": "cyp2c19-1",
+        "model_info": "/mnt/d/work/Syn-MolOpt/outputs/substructure_analysis/trained_models/cyp2c19_1_early_stop.pth"
+      },
+      "cyp2c19-2": {
+        "task": "cyp2c19-2",
+        "model_info": "/mnt/d/work/Syn-MolOpt/outputs/substructure_analysis/trained_models/cyp2c19_2_early_stop.pth"
+      },
+      "cyp2c19-3": {
+        "task": "cyp2c19-3",
+        "model_info": "/mnt/d/work/Syn-MolOpt/outputs/substructure_analysis/trained_models/cyp2c19_3_early_stop.pth"
+      },
+      "cyp2c19-4": {
+        "task": "cyp2c19-4",
+        "model_info": "/mnt/d/work/Syn-MolOpt/outputs/substructure_analysis/trained_models/cyp2c19_4_early_stop.pth"
+      },
+      "cyp2c19-5": {
+        "task": "cyp2c19-5",
+        "model_info": "/mnt/d/work/Syn-MolOpt/outputs/substructure_analysis/trained_models/cyp2c19_5_early_stop.pth"
+      },
+      "cyp2c19-6": {
+        "task": "cyp2c19-6",
+        "model_info": "/mnt/d/work/Syn-MolOpt/outputs/substructure_analysis/trained_models/cyp2c19_6_early_stop.pth"
+      },
+      "cyp2c19-7": {
+        "task": "cyp2c19-7",
+        "model_info": "/mnt/d/work/Syn-MolOpt/outputs/substructure_analysis/trained_models/cyp2c19_7_early_stop.pth"
+      },
+      "cyp2c19-8": {
+        "task": "cyp2c19-8",
+        "model_info": "/mnt/d/work/Syn-MolOpt/outputs/substructure_analysis/trained_models/cyp2c19_8_early_stop.pth"
+      },
+      "cyp2c19-9": {
+        "task": "cyp2c19-9",
+        "model_info": "/mnt/d/work/Syn-MolOpt/outputs/substructure_analysis/trained_models/cyp2c19_9_early_stop.pth"
+      },
+      "cyp2c19-10": {
+        "task": "cyp2c19-10",
+        "model_info": "/mnt/d/work/Syn-MolOpt/outputs/substructure_analysis/trained_models/cyp2c19_10_early_stop.pth"
+      }
+
+}
